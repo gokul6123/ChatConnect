@@ -6,7 +6,7 @@ Demo Link - https://drive.google.com/file/d/16bVVtuBRxv1IhpGTy-hwh9qwxXL1Msvv/vi
 Google developer Url
 
 Gokulnath.S (Team  Lead)– 
-        [https://developers.google.com/profile/u/gokul613](https://developers.google.com/profile/u/gokul613)
+      https://g.dev/gokul613
 
 Kabilan.A(Team member 1)- 
       https://g.dev/kabi2003
