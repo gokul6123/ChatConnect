@@ -12,7 +12,7 @@ Kabilan.A(Team member 1)-
       https://g.dev/kabi2003
       
 Jai.S(Team member 2) -
-       [https://developers.google.com/profile/u/112341035251205533394](https://developers.google.com/profile/u/112341035251205533394?authuser=3)
+       https://developers.google.com/profile/u/112341035251205533394?authuser=3
        
 Praveenkumar.B(Team member 3 )-
        [ https://developers.google.com/profile/u/105104238818609236442?authuser=1](https://developers.google.com/profile/u/105104238818609236442?authuser=1)
